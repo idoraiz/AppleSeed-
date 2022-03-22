@@ -1,4 +1,4 @@
 #ignore figlet
-figlet
-node-figlet
-fonts
+figlet.js
+node-figlet.js
+fonts/
